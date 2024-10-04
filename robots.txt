@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itaterv.github.io/sitemap.html.gz
+Sitemap: https://itaterv.github.io/app/sitemap.html.gz
+Sitemap: https://itaterv.github.io/assets/sitemap.html.gz
+Sitemap: https://itaterv.github.io/css/sitemap.html.gz
+Sitemap: https://itaterv.github.io/data/sitemap.html.gz
+Sitemap: https://itaterv.github.io/includes/sitemap.html.gz
+Sitemap: https://itaterv.github.io/item/sitemap.html.gz
+Sitemap: https://itaterv.github.io/src/sitemap.html.gz
